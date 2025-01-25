@@ -11,6 +11,8 @@ The dataset is sourced from a Fashion and Beauty startup, focusing on the supply
 
 ### PowerBi Dashboard:
 
+Power BI Dashboard: 🔗 https://lnkd.in/ddvxTzVr
+
 ![1](https://github.com/user-attachments/assets/f5f346e8-0035-4f9c-9e26-9c5bb8d17345)
 
 ![2](https://github.com/user-attachments/assets/3203fc95-35d3-4cd9-a45a-1ff4453572f1)
